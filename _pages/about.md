@@ -56,3 +56,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 🔖 Template
+This homepage is rendered from [this repository](https://github.com/whr819987540/whr819987540.github.io) which is forked from [acad-homepage](https://github.com/RayeRen/acad-homepage.github.io).
