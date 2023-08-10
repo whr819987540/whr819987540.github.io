@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoran Wang"
-description              : "Haoran Wang's github homepage. "
+description              : "Haoran Wang's github homepage."
 repository               : "whr819987540/whr819987540.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/whr819987540"
+  github           : "whr819987540"
   google_plus      :
   keybase          :
   instagram        :
