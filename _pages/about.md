@@ -31,7 +31,10 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-- Federated LoRA Fine-Tuning with Pipelined Error-Mitigated Aggregation and Matrix-Wise Freezing
+- Federated LoRA Fine-Tuning with Pipelined Error-Mitigated Aggregation and Matrix-Wise Freezing  
+  <a class="btn btn--primary btn--small" href="https://www.bing.com/" target="_blank" rel="noopener">PDF</a>
+  <a class="btn btn--primary btn--small" href="https://www.bing.com/" target="_blank" rel="noopener">Code</a>
+  <a class="btn btn--primary btn--small" href="https://www.bing.com/" target="_blank" rel="noopener">BibTeX</a>
 
   **Haoran Wang**, Xiong Wang, Yuqing Li, Jing Chen, Junyi Zhang, Nan Yan, Kun He, Wei Wang  
 
