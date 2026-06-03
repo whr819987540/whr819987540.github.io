@@ -44,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 
   Pei Ye, Yuqing Li, Kun He, **Haoran Wang**, Ruiying Du, Wei Wang
   
-  IEEE Conference on Computer Communications (INFOCOM), 2026.
+  IEEE International Conference on Computer Communications (INFOCOM), 2026.
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
