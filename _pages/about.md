@@ -53,6 +53,9 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- Ph.D., in Cyber Science and Engineering, Wuhan university, 2025.09 - Now.
+- M.Eng., in Cyber Science and Engineering, Wuhan university, 2023.09 - 2025.06.
+- B.Eng., in Cyberspace Security, Harbin Institute of Technology. 2019.09 - 2023.06.
 
 # 💬 Invited Talks
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
