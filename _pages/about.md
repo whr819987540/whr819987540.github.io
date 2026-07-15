@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 
 - Federated LoRA Fine-Tuning with Pipelined Error-Mitigated Aggregation and Matrix-Wise Freezing  
-  <a class="btn btn--primary btn--small" href="https://www.bing.com/" target="_blank" rel="noopener">PDF</a>
+  <a class="btn btn--primary btn--small" href="https://aclanthology.org/2026.findings-acl.284.pdf" target="_blank" rel="noopener">PDF</a>
   <a class="btn btn--primary btn--small" href="https://www.bing.com/" target="_blank" rel="noopener">Code</a>
   <a class="btn btn--primary btn--small" href="https://www.bing.com/" target="_blank" rel="noopener">BibTeX</a>
 
