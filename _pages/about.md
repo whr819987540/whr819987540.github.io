@@ -41,6 +41,8 @@ My research interest includes neural machine translation and computer vision. I 
   Findings of the Association for Computational Linguistics (ACL), 2026.
 
 - Less is More: Persistent Low-Frequency Backdoor Injection in Federated Learning
+  <a class="btn btn--primary btn--small" href="{{ '/files/pdf/ye-infocom26.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+  <a class="btn btn--primary btn--small" href="{{ '/files/pdf/ye-infocom26.bib' | relative_url }}" target="_blank" rel="noopener">BibTeX</a>
 
   Pei Ye, Yuqing Li, Kun He, **Haoran Wang**, Ruiying Du, Wei Wang
   
